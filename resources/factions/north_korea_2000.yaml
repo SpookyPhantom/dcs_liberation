@@ -46,8 +46,7 @@ preset_groups:
   - SA-3/S-125 V-601P/5V27
   - SA-6
 naval_units:
-  - Corvette 1124.4 Grish
-  - Corvette 1241.1 Molniya
+  - Boat Armed Hi-speed
 air_defense_units:
   - EWR 1L13
   - EWR 55G6

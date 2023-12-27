@@ -41,8 +41,7 @@ preset_groups:
   - SA-3/S-125 V-601P/5V27
   - SA-6
   - Cold-War-Flak
-naval_units:
-  - CG Ticonderoga
+naval_units: []
 air_defense_units:
   - SAM P19 "Flat Face" SR (SA-2/3)
   - SAM SA-5 S-200 ST-68U "Tin Shield" SR

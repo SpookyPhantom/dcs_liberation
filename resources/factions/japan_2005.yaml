@@ -42,10 +42,7 @@ infantry_units:
 preset_groups:
   - Hawk
   - Patriot
-naval_units:
-  - DDG Arleigh Burke IIa
-  - CG Ticonderoga
-  - LHA-1 Tarawa
+naval_units: []
 missiles: []
 air_defense_units:
   - EWR AN/FPS-117 Radar

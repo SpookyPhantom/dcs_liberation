@@ -33,9 +33,7 @@ infantry_units:
   - MANPADS Stinger
 preset_groups:
   - Hawk
-naval_units:
-  - DDG Arleigh Burke IIa
-  - CG Ticonderoga
+naval_units: []
 missiles: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)

@@ -31,9 +31,7 @@ infantry_units:
 preset_groups:
   - Hawk
   - Rapier
-naval_units:
-  - DDG Arleigh Burke IIa
-  - LHA-1 Tarawa
+naval_units: []
 missiles: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)

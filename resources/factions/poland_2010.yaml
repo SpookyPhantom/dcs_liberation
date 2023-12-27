@@ -41,9 +41,7 @@ missiles: []
 preset_groups:
   - SA-5/S-200
   - SA-6
-naval_units:
-  - FFG Oliver Hazard Perry
-  - Corvette 1241.1 Molniya
+naval_units: []
 air_defense_units:
   - SAM SA-10 S-300 "Grumble" Big Bird SR
   - SAM SA-8 Osa "Gecko" TEL

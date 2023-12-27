@@ -51,11 +51,7 @@ infantry_units:
 preset_groups:
   - Hawk
   - Roland
-naval_units:
-  - FFG Oliver Hazard Perry
-  - DDG Arleigh Burke IIa
-  - CG Ticonderoga
-  - LHA-1 Tarawa
+naval_units: []
 missiles: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)

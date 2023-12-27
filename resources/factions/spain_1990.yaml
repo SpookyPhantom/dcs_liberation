@@ -37,11 +37,7 @@ preset_groups:
   - Hawk
   - Roland
   - Patriot
-naval_units:
-  - FFG Oliver Hazard Perry
-  - CG Ticonderoga
-  - LHA-1 Tarawa
-  - CVN-74 John C. Stennis
+naval_units: []
 missiles: []
 air_defense_units:
   - EWR AN/FPS-117 Radar

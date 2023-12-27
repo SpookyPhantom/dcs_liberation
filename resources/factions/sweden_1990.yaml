@@ -29,8 +29,7 @@ infantry_units:
   - MANPADS Stinger
 preset_groups:
   - Hawk
-naval_units:
-  - FFG Oliver Hazard Perry
+naval_units: []
 missiles: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)

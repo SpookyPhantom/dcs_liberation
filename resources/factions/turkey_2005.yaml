@@ -45,8 +45,7 @@ preset_groups:
   - Hawk
   - SA-3/S-125
   - Rapier
-naval_units:
-  - FFG Oliver Hazard Perry
+naval_units: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)
   - M1097 Heavy HMMWV Avenger

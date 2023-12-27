@@ -31,8 +31,7 @@ preset_groups:
   - Hawk
   - Rapier
   - Patriot
-naval_units:
-  - FFG Oliver Hazard Perry
+naval_units: []
 missiles: []
 air_defense_units:
   - EWR AN/FPS-117 Radar

@@ -50,11 +50,7 @@ air_defense_units: []
 preset_groups:
   - Hawk
   - Roland
-naval_units:
-  - DDG Arleigh Burke IIa
-  - CG Ticonderoga
-  - LHA-1 Tarawa
-  - CVN-74 John C. Stennis
+naval_units: []
 missiles: []
 requirements:
   frenchpack V3.5: https://forums.eagle.ru/showthread.php?t=279974

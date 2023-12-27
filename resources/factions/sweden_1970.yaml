@@ -32,8 +32,7 @@ missiles: []
 preset_groups:
   - Hawk
   - Cold-War-Flak
-naval_units:
-  - FFG Oliver Hazard Perry
+naval_units: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)
   - M163 Vulcan Air Defense System

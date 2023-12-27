@@ -62,10 +62,7 @@ preset_groups:
   - SA-23/S-300VM
   - Patriot
   - Hawk
-naval_units:
-  - FFG Oliver Hazard Perry
-  - Corvette 1241.1 Molniya
-  - FAC La Combattante IIa
+naval_units: []
 missiles:
   - SSM SS-1C Scud-B
 air_defense_units:

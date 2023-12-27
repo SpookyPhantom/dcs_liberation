@@ -40,8 +40,7 @@ infantry_units:
 preset_groups:
   - Hawk
   - Patriot
-naval_units:
-  - DDG Arleigh Burke IIa
+naval_units: []
 missiles: []
 air_defense_units:
   - SAM Hawk SR (AN/MPQ-50)
